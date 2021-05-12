@@ -1,0 +1,30 @@
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #ffffff;
+  color: #161616;
+}
+
+#about {
+  background-color: #161616;
+  color: white;
+  margin-top: -10px;
+}
+#about p {
+  text-align: justify;
+}
+
+.card {
+  transition: 0.3s;
+}
+.card:hover {
+  transform: scale(1.1);
+}
+
+section {
+  padding-top: 5rem;
+}
+footer {
+  min-height: 70px;
+  background-color: #161616;
+  color: white;
+}
