@@ -23,6 +23,11 @@
 section {
   padding-top: 5rem;
 }
+
+#contact p {
+  margin-top: 20px;
+  font-weight: bold;
+}
 footer {
   min-height: 70px;
   background-color: #161616;
