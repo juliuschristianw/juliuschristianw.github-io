@@ -28,6 +28,18 @@ section {
   margin-top: 20px;
   font-weight: bold;
 }
+
+#contact a {
+  text-decoration: none;
+  border: 1px solid #1170fd;
+  transition: 0.3s;
+}
+
+#contact a:hover {
+  background-color: #1170fd;
+  color: white;
+}
+
 footer {
   min-height: 70px;
   background-color: #161616;
